@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/ai_mode.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/AiFont.spritefont</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/back.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/choose_ai.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/choose_difficulty.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/game_over.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/game_over_vs_ai.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/game_won.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/game_won_vs_ai.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/Main_Background.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/player_mode.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/player_vs_ai.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/PlayerMode_Background.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/ProjFont.spritefont</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/restartBtn.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_1024.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_128.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_16.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_16384.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_2.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_2048.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_256.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_32.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_32768.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_4.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_4096.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_512.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_64.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_8.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/tiles/block_8192.png</File>
+    <File>C:/Users/drutinerez1/source/repos/2048+Project/2048+Project/Content/view_ai.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
